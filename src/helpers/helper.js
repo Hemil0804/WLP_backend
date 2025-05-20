@@ -202,7 +202,7 @@ const generateUserUniqId = () => {
 
 //         const options = {
 //             provider: 'google',        
-//             apiKey: 'AIzaSyDwnry3r_UIPKiFQY0Ghm6hWbLTIScxywU'
+//             apiKey: ''
 //         };
 
 //         const geocoder = NodeGeocoder(options);
